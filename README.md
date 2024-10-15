@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekbisen04" alt="vivekbisen04" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://vivekbisen.click/](portfolio)
+- 👨‍💻 All of my projects are available at [portfolio](https://vivekbisen.click/)
 - 📫 How to reach me **vivekbisen204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
